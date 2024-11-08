@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivani1406
 - 👀 I’m interested in software development and database designing and cyber security 
-- 🌱 I’m currently learning cyber security
+- 🌱 I’m currently pursuing COMP TIA Security+
 - 💞️ I’m looking to collaborate on any project that built on .Net, C#, HTML, Node.js etc
 - 📫 To reach me mail at shivani1406sharma@gmail.com
 
