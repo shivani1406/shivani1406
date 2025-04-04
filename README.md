@@ -11,6 +11,7 @@
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani1406&theme=blue-green)
 ## My TryHackMe Score
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/yourbadge.png)](https://tryhackme.com/p/yourusername)
 ![Your Repository's Stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3245480)
 
 shivani1406/shivani1406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
