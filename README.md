@@ -12,6 +12,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani1406&theme=blue-green)
 ## My TryHackMe Score
 <img src="https://tryhackme-badges.s3.amazonaws.com/Shivani1406.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3245480" style='border:none;'></iframe>
 
 shivani1406/shivani1406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
